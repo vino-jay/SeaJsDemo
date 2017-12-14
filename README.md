@@ -1,2 +1,2 @@
 # SeaJsDemo
-seaJs的简答使用实例
+seaJs的简单使用实例
